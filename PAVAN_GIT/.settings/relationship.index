@@ -66,4 +66,27 @@
     "version" : "Latest",
     "type" : "property"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_u4Z3gFThEe2GKZjIVHhqmQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_F9PIEBrdEeilK-3aicBZHw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_oyl0wF0aEe6l6ZOK2LEd4g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_UbtcIGJcEe2Br9JjjZbI5w - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_oyl0wF0aEe6l6ZOK2LEd4g - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
