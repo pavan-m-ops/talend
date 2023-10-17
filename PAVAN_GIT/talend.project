@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_VmbUQGykEe6fFvFe_uSGJw" label="Pavan_Git" description="" language="java" technicalLabel="PAVAN_GIT" author="_VmbUQWykEe6fFvFe_uSGJw" productVersion="Talend Cloud Data Fabric-8.0.1.20230815_1353-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/pavan-m-ops/talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_VnqDUGykEe6fFvFe_uSGJw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_VmbUQWykEe6fFvFe_uSGJw" login="pmuniraju@asl.talend.com" firstName="Pavan" lastName="Muniraju" type="DQ"/>
+</xmi:XMI>

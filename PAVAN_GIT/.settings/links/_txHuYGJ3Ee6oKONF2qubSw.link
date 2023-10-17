@@ -1,0 +1,14 @@
+{
+  "itemId" : "_txHuYGJ3Ee6oKONF2qubSw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_3gsqsGJ6Ee6u8q4qelgErA",
+    "parameterList" : [ {
+      "id" : "_3g9wcWJ6Ee6u8q4qelgErA",
+      "name" : "Phone_Code"
+    }, {
+      "id" : "_3g9wcmJ6Ee6u8q4qelgErA",
+      "name" : "Default_Country"
+    } ]
+  } ]
+}

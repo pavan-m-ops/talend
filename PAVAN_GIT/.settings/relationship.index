@@ -1,0 +1,69 @@
+[ {
+  "baseItem" : {
+    "id" : "_6KjsEGJ-Ee6u8q4qelgErA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_zshIcFaHEe6VsJPOxn7xCQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "multi_country_data_generator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "se_data_generator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_413ycGK9Ee6XILbQMYsteA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Jp4M8Ga1Ee6-w9Yr3K0pIw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_zshIcFaHEe6VsJPOxn7xCQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_clPZ4GEGEe6mP-N-5rTQtA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_zshIcFaHEe6VsJPOxn7xCQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_txHuYGJ3Ee6oKONF2qubSw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_3gsqsGJ6Ee6u8q4qelgErA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_zshIcFaHEe6VsJPOxn7xCQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]
